@@ -27,12 +27,15 @@ body {
 
 #nav-bar {
     float: right;
-    padding: 2%;
-    margin-right: 5%;
-    margin-bottom: 5%;
+    width: 400px;
+    /* padding: %; */
+    margin-right: 1%;
+    margin-bottom: 4%;
+    margin-top: 1%;
     border-style: solid;
     border-width: 1px;
     border-color: red;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ul{
@@ -44,4 +47,17 @@ li {
     width: 50%;
     padding: 5%;
     margin: 2%;
+}
+
+#videoContainer {
+    position: absolute;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#video {
+    margin: auto;
+
 }
