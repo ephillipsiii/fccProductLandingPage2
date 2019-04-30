@@ -55,9 +55,18 @@ li {
     margin-right: 30%;
     margin-top: 10%;
     margin-bottom: 10%;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
 }
 
 #video {
     margin: auto;
-
 }
+
+#formContainter {
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+}
+
